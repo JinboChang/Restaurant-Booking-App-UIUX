@@ -1,2 +1,2 @@
-# Restaurant-Booking-App-UIUX-
+# Restaurant-Booking-App-UIUX
 UIUX implementations on restaurant booking application
